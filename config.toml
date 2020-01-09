@@ -1,0 +1,42 @@
+baseURL = "http://pages.saclay.inria.fr/vincent.rouvreau/paris-swc/"
+languageCode = "en-us"
+title = "Software Carpentry Paris"
+theme = "beautifulhugo"
+
+[Params]
+  logo = "img/favicon-96x96.png"
+  favicon = "img/favicon-16x16.ico"
+  rss = true
+  copyright = "CC BY 4.0"
+
+[Author]
+  name = "Software Carpentry Paris"
+  website = "https://paris-swc.github.io/"
+  email = "swc-gif-2016@lists.telenczuk.pl"
+  #facebook = "username"
+  github = "paris-swc"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #twitter = "username"
+  #reddit = "username"
+  #linkedin = "username"
+  #xing = "username"
+  #stackoverflow = "username"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "username"
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #mastodon = "username"
+
+# Navbar
+[[menu.main]]
+  name = "Our instructors"
+  url = "page/instructors/"
+  weight = 1
+
