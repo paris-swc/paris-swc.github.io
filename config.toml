@@ -1,4 +1,4 @@
-baseURL = "http://pages.saclay.inria.fr/vincent.rouvreau/paris-swc/"
+baseURL = "https://paris-swc.github.io/"
 languageCode = "en-us"
 title = "Software Carpentry Paris"
 theme = "beautifulhugo"
