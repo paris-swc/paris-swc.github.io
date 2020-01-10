@@ -7,7 +7,7 @@ draft: true
 This page lists all the instructors who have consented to be listed publicly on
 our web site so far. If you are a badged Instructor whose details do not appear
 here, but you would like to be listed, please propose a
-[merge request](https://github.com/paris-swc/paris-swc.github.io).
+[Pull Request](https://github.com/paris-swc/paris-swc.github.io).
 
 {{< rawhtml >}}
 <ul class="share">
