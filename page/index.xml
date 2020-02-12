@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Software Carpentry Paris</title>
+    <link>https://paris-swc.github.io/page/</link>
+    <description>Recent content in Pages on Software Carpentry Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>swc-gif-2016@lists.telenczuk.pl (Software Carpentry Paris)</managingEditor>
+    <webMaster>swc-gif-2016@lists.telenczuk.pl (Software Carpentry Paris)</webMaster>
+    <lastBuildDate>Wed, 08 Jan 2020 07:39:57 +0100</lastBuildDate>
+    
+	<atom:link href="https://paris-swc.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our instructors</title>
+      <link>https://paris-swc.github.io/page/instructors/</link>
+      <pubDate>Wed, 08 Jan 2020 07:39:57 +0100</pubDate>
+      <author>swc-gif-2016@lists.telenczuk.pl (Software Carpentry Paris)</author>
+      <guid>https://paris-swc.github.io/page/instructors/</guid>
+      <description>This page lists all the instructors who have consented to be listed publicly on our web site so far. If you are a badged Instructor whose details do not appear here, but you would like to be listed, please propose a Pull Request.
+   &amp;nbsp; Loïc Estève     &amp;nbsp; Alexandre Gramfort     &amp;nbsp; Samuel Lelièvre     &amp;nbsp; Camille Marini     &amp;nbsp; Joan Massich     &amp;nbsp; Marcel Stimberg     &amp;nbsp; Bartosz Telenczuk    </description>
+    </item>
+    
+  </channel>
+</rss>
