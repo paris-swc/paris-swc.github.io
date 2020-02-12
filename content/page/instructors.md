@@ -1,7 +1,6 @@
 ---
 title: "Our instructors"
 date: 2020-01-08T07:39:57+01:00
-draft: true
 ---
 
 This page lists all the instructors who have consented to be listed publicly on
